@@ -4,6 +4,9 @@ Fooocus catalog style
 This space was created to allow everyone to visualize the different styles that Fooocus offers, it is an apple, with the default settings of Fooocus.
 This is to allow everyone to get a good idea of ​​the styles available and their influence on the original prompt.
 
+There are 276 styles, the last image in the series, is the original image with the seed: 2194141034514071567
+All images were produced with this seed.
+
 <div id="2023-12-29_09-54-56_7112_jpg" class="image-container"><hr><table><tr>
 <td><a href="2023-12-29_09-54-56_7112.jpg" target="_blank"><img src='MEDIAS/2023-12-29_09-54-56_7112.jpg' loading='lazy'></img></a><div>2023-12-29_09-54-56_7112.jpg</div></td><td><table class='metadata'><tr><td class='key'>Prompt</td><td class='value'>one apple</td></tr>
 <tr><td class='key'>Negative Prompt</td><td class='value'></td></tr>
